@@ -28,14 +28,6 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Split a String in Balanced Strings](problems/easy/split-a-string-in-balanced-strings) | Greedy Approach, Stack | [Solution](problems/easy/split-a-string-in-balanced-strings/index.md) |
 | [Xor Operation in an Array](problems/easy/xor-operation-in-an-array) | Bit Manipulation | [Solution](problems/easy/xor-operation-in-an-array/index.md) |
 | [Decode XORed Array](problems/easy/decode-xor-in-an-array) | Bit Manipulation | [Solution](problems/easy/decode-xor-in-an-array/index.md) |
-#### Medium
-| Problem | Approach | Solution |
-|---------|------------|----------|
-| [Generate Parentheses](problems/medium/generate-parentheses) | Recursion, Backtracking | [Solution](problems/medium/generate-parentheses/index.md) |
-| [Jump Game](problems/medium/jump-game) | Greedy Approach, Backtracking | [Solution](problems/medium/jump-game/index.md) |
-| [Jump Game 2](problems/medium/jump-game-2) | Greedy Approach, Dynamic Programming | [Solution](problems/medium/jump-game-2/index.md) |
-| [Insert Interval](problems/medium/insert-interval) | Merge, One Pass | [Solution](problems/medium/insert-interval/index.ts) |
-| [Minimum Size Subarray Sum](problems/medium/minimum-size-subarray-sum) | Sliding Window, Prefix Sum and Binary Search | [Solution](problems/medium/minimum-size-subarray-sum/index.md) |
 | [Minimum Sum of Four Digit Number After Splitting Digits](problems/medium/minimum-sum-of-four-digit-number-after-splitting-digits) | Min Heap | [Solution](problems/medium/minimum-sum-of-four-digit-number-after-splitting-digits/index.md) |
 | [Can Place Flowers](problems/medium/can-place-flowers) | Iterative, Early Return | [Solution](problems/medium/can-place-flowers/index.md) |
 | [Majority Element](problems/medium/majority-element) | Boyer-Moore Voting Algorithm, Sorting, Map | [Solution](problems/medium/majority-element/index.md) |
@@ -48,9 +40,19 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Shuffle the Array](problems/medium/shuffle-array) | Brute Force, Two Pointers | [Solution](problems/medium/shuffle-array/index.md) |
 | [Move Zeroes](problems/easy/move-zeros) | Two Pointers, Swapping | [Solution](problems/easy/move-zeros/index.md) |
 | [Intersection of Two Arrays 2](problems/easy/insersection-of-two-arrays-2) | Hashmap, Sorting and Two Pointers | [Solution](problems/easy/insersection-of-two-arrays-2/index.md) |
+| [Word Pattern](problems/easy/word-pattern) | Two Maps, Map and Set | [Solution](problems/easy/word-pattern/index.md) |
+| [Minimum Absolute Difference in BST](problems/easy/minimum-absolute-difference-bst) | In-order Traversal | [Solution](problems/easy/minimum-absolute-difference-bst/index.md) |
+| [Average of Levels in Binary Tree](problems/easy/average-of-levels-in-binary-tree) | BFS, DFS | [Solution](problems/easy/average-of-levels-in-binary-tree/index.md) |
+| [Best Time to Buy and Sell Stock](problems/easy/best-time-to-buy-and-sell-stock) | Brute Force, One Pass | [Solution](problems/easy/best-time-to-buy-and-sell-stock/index.md) |
 
-
-
+#### Medium
+| Problem | Approach | Solution |
+|---------|------------|----------|
+| [Generate Parentheses](problems/medium/generate-parentheses) | Recursion, Backtracking | [Solution](problems/medium/generate-parentheses/index.md) |
+| [Jump Game](problems/medium/jump-game) | Greedy Approach, Backtracking | [Solution](problems/medium/jump-game/index.md) |
+| [Jump Game 2](problems/medium/jump-game-2) | Greedy Approach, Dynamic Programming | [Solution](problems/medium/jump-game-2/index.md) |
+| [Insert Interval](problems/medium/insert-interval) | Merge, One Pass | [Solution](problems/medium/insert-interval/index.ts) |
+| [Minimum Size Subarray Sum](problems/medium/minimum-size-subarray-sum) | Sliding Window, Prefix Sum and Binary Search | [Solution](problems/medium/minimum-size-subarray-sum/index.md) |
 
 #### Hard
 
@@ -60,7 +62,6 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 - [Hard](#hard)
 
 ### System Design
-
 
 ## Contributing
 
@@ -80,6 +81,3 @@ Please ensure your code submissions include:
 - Test cases if possible
 
 Together we can build a better resource for the TypeScript community to learn DSA concepts!
-
-
-
