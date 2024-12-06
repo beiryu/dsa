@@ -43,6 +43,12 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [How Many Numbers Are Smaller Than the Current Number](problems/medium/how-many-numbers-are-smaller-than-the-current-number) | Brute Force, Counting Sort | [Solution](problems/medium/how-many-numbers-are-smaller-than-the-current-number/index.md) |
 | [Two Sum](problems/medium/two-sum) | Brute Force, Hashmap | [Solution](problems/medium/two-sum/index.md) |
 | [Valid Parentheses](problems/easy/valid-parentheses) | Stack | [Solution](problems/easy/valid-parentheses/index.md) |
+| [Number of Arithmetic Triplets](problems/medium/number-of-arithmetic-triplets) | Brute Force, Hashmap | [Solution](problems/medium/number-of-arithmetic-triplets/index.md) |
+| [Generate Parentheses](problems/medium/generate-parentheses) | Closure Number, Backtracking | [Solution](problems/medium/generate-parentheses/index.md) |
+| [Shuffle the Array](problems/medium/shuffle-array) | Brute Force, Two Pointers | [Solution](problems/medium/shuffle-array/index.md) |
+| [Move Zeroes](problems/easy/move-zeros) | Two Pointers, Swapping | [Solution](problems/easy/move-zeros/index.md) |
+| [Intersection of Two Arrays 2](problems/easy/insersection-of-two-arrays-2) | Hashmap, Sorting and Two Pointers | [Solution](problems/easy/insersection-of-two-arrays-2/index.md) |
+
 
 
 
