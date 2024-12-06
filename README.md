@@ -15,18 +15,18 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 #### Easy
 | Problem | Approach | Solution |
 |---------|------------|----------|
-| [Longest Common Prefix](problems/easy/longest-common-prefix) | Horizontal Scanning, Vertical Scanning | [Solution](problems/easy/longest-common-prefix/index.ts) |
-| [Search Insert Position](problems/easy/search-insert-position) | Binary Search, Linear Search | [Solution](problems/easy/search-insert-position/index.ts) |
-| [Add Binary](problems/easy/add-binary) | Built-in JavaScript Functions, Bit Manipulation | [Solution](problems/easy/add-binary/index.ts) |
+| [Longest Common Prefix](problems/easy/longest-common-prefix) | Horizontal Scanning, Vertical Scanning | [Solution](problems/easy/longest-common-prefix/index.md) |
+| [Search Insert Position](problems/easy/search-insert-position) | Binary Search, Linear Search | [Solution](problems/easy/search-insert-position/index.md) |
+| [Add Binary](problems/easy/add-binary) | Built-in JavaScript Functions, Bit Manipulation | [Solution](problems/easy/add-binary/index.md) |
 
 #### Medium
 | Problem | Approach | Solution |
 |---------|------------|----------|
-| [Generate Parentheses](problems/medium/generate-parentheses) | Recursion, Backtracking | [Solution](problems/medium/generate-parentheses/index.ts) |
-| [Jump Game](problems/medium/jump-game) | Greedy Approach, Backtracking | [Solution](problems/medium/jump-game/index.ts) |
-| [Jump Game 2](problems/medium/jump-game-2) | Greedy Approach, Dynamic Programming | [Solution](problems/medium/jump-game-2/index.ts) |
+| [Generate Parentheses](problems/medium/generate-parentheses) | Recursion, Backtracking | [Solution](problems/medium/generate-parentheses/index.md) |
+| [Jump Game](problems/medium/jump-game) | Greedy Approach, Backtracking | [Solution](problems/medium/jump-game/index.md) |
+| [Jump Game 2](problems/medium/jump-game-2) | Greedy Approach, Dynamic Programming | [Solution](problems/medium/jump-game-2/index.md) |
 | [Insert Interval](problems/medium/insert-interval) | Merge, One Pass | [Solution](problems/medium/insert-interval/index.ts) |
-| [Minimum Size Subarray Sum](problems/medium/minimum-size-subarray-sum) | Sliding Window, Prefix Sum and Binary Search | [Solution](problems/medium/minimum-size-subarray-sum/index.ts) |
+| [Minimum Size Subarray Sum](problems/medium/minimum-size-subarray-sum) | Sliding Window, Prefix Sum and Binary Search | [Solution](problems/medium/minimum-size-subarray-sum/index.md) |
 
 #### Hard
 
