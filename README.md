@@ -1,9 +1,50 @@
-# Public DSA handbook
+# Typescript DSA handbook
 
-This is a public handbook for DSA. It is a work in progress and will be updated regularly.
+This is a public typescript handbook for DSA. It is a work in progress and will be updated regularly.
 
 ## Table of Contents
 
-- [Data Structures](#data-structures)
-- [Algorithms](#algorithms)
+- [Problems](#problems)
 - [Interview Questions](#interview-questions)
+
+### Problems
+- [Easy](#easy)
+- [Medium](#medium)
+- [Hard](#hard)
+
+#### Easy
+| Problem | Approach | Solution |
+|---------|------------|----------|
+| [Longest Common Prefix](problems/easy/longest-common-prefix) | Horizontal Scanning, Vertical Scanning | [Solution](problems/easy/longest-common-prefix/index.ts) |
+| [Search Insert Position](problems/easy/search-insert-position) | Binary Search, Linear Search | [Solution](problems/easy/search-insert-position/index.ts) |
+
+#### Medium
+
+#### Hard
+
+### Interview Questions
+- [Easy](#easy)
+- [Medium](#medium)
+- [Hard](#hard)
+
+## Contributing
+
+We welcome contributions from the community! This handbook aims to be a comprehensive resource for TypeScript Data Structures and Algorithms. Whether you want to add new problems, improve existing solutions, enhance documentation, or fix bugs - your contributions are valuable. Here's how you can contribute:
+
+1. Fork the repository
+2. Create a new branch for your feature/fix
+3. Make your changes following the existing code style
+4. Add appropriate comments and complexity analysis
+5. Submit a pull request with a clear description of your changes
+
+Please ensure your code submissions include:
+- Clear problem description
+- Multiple solution approaches where applicable
+- Time and space complexity analysis
+- Well-documented TypeScript code
+- Test cases if possible
+
+Together we can build a better resource for the TypeScript community to learn DSA concepts!
+
+
+
