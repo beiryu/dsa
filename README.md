@@ -22,6 +22,10 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Sqrt(x)](problems/easy/sqrt-x) | Binary Search, Newton's Method | [Solution](problems/easy/sqrt-x/index.md) |
 | [Count Pair Whose Sum is Less Than Target](problems/easy/count-pair-whose-sum-is-less-than-target) | Two Pointers, Brute Force | [Solution](problems/easy/count-pair-whose-sum-is-less-than-target/index.md) |
 | [Number of Good Pairs](problems/easy/number-of-good-pairs) | Brute Force, Hashmap | [Solution](problems/easy/number-of-good-pairs/index.md) |
+| [Check if the Sentence is Pangram](problems/easy/check-if-the-sentence-is-pangram) | Set, Array | [Solution](problems/easy/check-if-the-sentence-is-pangram/index.md) |
+| [Add Strings](problems/easy/add-string) | Elementary Math, Character Code Conversion | [Solution](problems/easy/add-string/index.md) |
+| [Contains Duplicate 2](problems/easy/contains-duplicate-2) | Brute Force, Set | [Solution](problems/easy/contains-duplicate-2/index.md) |
+
 
 
 #### Medium
