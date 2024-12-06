@@ -26,6 +26,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Jump Game](problems/medium/jump-game) | Greedy Approach, Backtracking | [Solution](problems/medium/jump-game/index.ts) |
 | [Jump Game 2](problems/medium/jump-game-2) | Greedy Approach, Dynamic Programming | [Solution](problems/medium/jump-game-2/index.ts) |
 | [Insert Interval](problems/medium/insert-interval) | Merge, One Pass | [Solution](problems/medium/insert-interval/index.ts) |
+| [Minimum Size Subarray Sum](problems/medium/minimum-size-subarray-sum) | Sliding Window, Prefix Sum and Binary Search | [Solution](problems/medium/minimum-size-subarray-sum/index.ts) |
 
 #### Hard
 
