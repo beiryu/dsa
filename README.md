@@ -23,6 +23,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | Problem | Approach | Solution |
 |---------|------------|----------|
 | [Generate Parentheses](problems/medium/generate-parentheses) | Recursion, Backtracking | [Solution](problems/medium/generate-parentheses/index.ts) |
+| [Jump Game](problems/medium/jump-game) | Greedy Approach, Backtracking | [Solution](problems/medium/jump-game/index.ts) |
 
 #### Hard
 
