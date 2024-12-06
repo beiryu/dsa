@@ -39,6 +39,12 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Minimum Sum of Four Digit Number After Splitting Digits](problems/medium/minimum-sum-of-four-digit-number-after-splitting-digits) | Min Heap | [Solution](problems/medium/minimum-sum-of-four-digit-number-after-splitting-digits/index.md) |
 | [Can Place Flowers](problems/medium/can-place-flowers) | Iterative, Early Return | [Solution](problems/medium/can-place-flowers/index.md) |
 | [Majority Element](problems/medium/majority-element) | Boyer-Moore Voting Algorithm, Sorting, Map | [Solution](problems/medium/majority-element/index.md) |
+| [Sum of Odd Length Subarrays](problems/medium/sum-of-odd-length-subarrays) | Brute Force, Optimized | [Solution](problems/medium/sum-of-odd-length-subarrays/index.md) |
+| [How Many Numbers Are Smaller Than the Current Number](problems/medium/how-many-numbers-are-smaller-than-the-current-number) | Brute Force, Counting Sort | [Solution](problems/medium/how-many-numbers-are-smaller-than-the-current-number/index.md) |
+| [Two Sum](problems/medium/two-sum) | Brute Force, Hashmap | [Solution](problems/medium/two-sum/index.md) |
+| [Valid Parentheses](problems/easy/valid-parentheses) | Stack | [Solution](problems/easy/valid-parentheses/index.md) |
+
+
 
 #### Hard
 
