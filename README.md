@@ -20,6 +20,9 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Add Binary](problems/easy/add-binary) | Built-in JavaScript Functions, Bit Manipulation | [Solution](problems/easy/add-binary/index.ts) |
 
 #### Medium
+| Problem | Approach | Solution |
+|---------|------------|----------|
+| [Generate Parentheses](problems/medium/generate-parentheses) | Recursion, Backtracking | [Solution](problems/medium/generate-parentheses/index.ts) |
 
 #### Hard
 
