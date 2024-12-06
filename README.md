@@ -28,16 +28,16 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Split a String in Balanced Strings](problems/easy/split-a-string-in-balanced-strings) | Greedy Approach, Stack | [Solution](problems/easy/split-a-string-in-balanced-strings/index.md) |
 | [Xor Operation in an Array](problems/easy/xor-operation-in-an-array) | Bit Manipulation | [Solution](problems/easy/xor-operation-in-an-array/index.md) |
 | [Decode XORed Array](problems/easy/decode-xor-in-an-array) | Bit Manipulation | [Solution](problems/easy/decode-xor-in-an-array/index.md) |
-| [Minimum Sum of Four Digit Number After Splitting Digits](problems/medium/minimum-sum-of-four-digit-number-after-splitting-digits) | Min Heap | [Solution](problems/medium/minimum-sum-of-four-digit-number-after-splitting-digits/index.md) |
-| [Can Place Flowers](problems/medium/can-place-flowers) | Iterative, Early Return | [Solution](problems/medium/can-place-flowers/index.md) |
-| [Majority Element](problems/medium/majority-element) | Boyer-Moore Voting Algorithm, Sorting, Map | [Solution](problems/medium/majority-element/index.md) |
-| [Sum of Odd Length Subarrays](problems/medium/sum-of-odd-length-subarrays) | Brute Force, Optimized | [Solution](problems/medium/sum-of-odd-length-subarrays/index.md) |
-| [How Many Numbers Are Smaller Than the Current Number](problems/medium/how-many-numbers-are-smaller-than-the-current-number) | Brute Force, Counting Sort | [Solution](problems/medium/how-many-numbers-are-smaller-than-the-current-number/index.md) |
-| [Two Sum](problems/medium/two-sum) | Brute Force, Hashmap | [Solution](problems/medium/two-sum/index.md) |
+| [Minimum Sum of Four Digit Number After Splitting Digits](problems/easy/minimum-sum-of-four-digit-number-after-splitting-digits) | Min Heap | [Solution](problems/easy/minimum-sum-of-four-digit-number-after-splitting-digits/index.md) |
+| [Can Place Flowers](problems/easy/can-place-flowers) | Iterative, Early Return | [Solution](problems/easy/can-place-flowers/index.md) |
+| [Majority Element](problems/easy/majority-element) | Boyer-Moore Voting Algorithm, Sorting, Map | [Solution](problems/easy/majority-element/index.md) |
+| [Sum of Odd Length Subarrays](problems/easy/sum-of-odd-length-subarrays) | Brute Force, Optimized | [Solution](problems/easy/sum-of-odd-length-subarrays/index.md) |
+| [How Many Numbers Are Smaller Than the Current Number](problems/easy/how-many-numbers-are-smaller-than-the-current-number) | Brute Force, Counting Sort | [Solution](problems/easy/how-many-numbers-are-smaller-than-the-current-number/index.md) |
+| [Two Sum](problems/easy/two-sum) | Brute Force, Hashmap | [Solution](problems/easy/two-sum/index.md) |
 | [Valid Parentheses](problems/easy/valid-parentheses) | Stack | [Solution](problems/easy/valid-parentheses/index.md) |
-| [Number of Arithmetic Triplets](problems/medium/number-of-arithmetic-triplets) | Brute Force, Hashmap | [Solution](problems/medium/number-of-arithmetic-triplets/index.md) |
-| [Generate Parentheses](problems/medium/generate-parentheses) | Closure Number, Backtracking | [Solution](problems/medium/generate-parentheses/index.md) |
-| [Shuffle the Array](problems/medium/shuffle-array) | Brute Force, Two Pointers | [Solution](problems/medium/shuffle-array/index.md) |
+| [Number of Arithmetic Triplets](problems/easy/number-of-arithmetic-triplets) | Brute Force, Hashmap | [Solution](problems/easy/number-of-arithmetic-triplets/index.md) |
+| [Generate Parentheses](problems/easy/generate-parentheses) | Closure Number, Backtracking | [Solution](problems/easy/generate-parentheses/index.md) |
+| [Shuffle the Array](problems/easy/shuffle-array) | Brute Force, Two Pointers | [Solution](problems/easy/shuffle-array/index.md) |
 | [Move Zeroes](problems/easy/move-zeros) | Two Pointers, Swapping | [Solution](problems/easy/move-zeros/index.md) |
 | [Intersection of Two Arrays 2](problems/easy/insersection-of-two-arrays-2) | Hashmap, Sorting and Two Pointers | [Solution](problems/easy/insersection-of-two-arrays-2/index.md) |
 | [Word Pattern](problems/easy/word-pattern) | Two Maps, Map and Set | [Solution](problems/easy/word-pattern/index.md) |
