@@ -25,9 +25,9 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Check if the Sentence is Pangram](problems/easy/check-if-the-sentence-is-pangram) | Set, Array | [Solution](problems/easy/check-if-the-sentence-is-pangram/index.md) |
 | [Add Strings](problems/easy/add-string) | Elementary Math, Character Code Conversion | [Solution](problems/easy/add-string/index.md) |
 | [Contains Duplicate 2](problems/easy/contains-duplicate-2) | Brute Force, Set | [Solution](problems/easy/contains-duplicate-2/index.md) |
-
-
-
+| [Split a String in Balanced Strings](problems/easy/split-a-string-in-balanced-strings) | Greedy Approach, Stack | [Solution](problems/easy/split-a-string-in-balanced-strings/index.md) |
+| [Xor Operation in an Array](problems/easy/xor-operation-in-an-array) | Bit Manipulation | [Solution](problems/easy/xor-operation-in-an-array/index.md) |
+| [Decode XORed Array](problems/easy/decode-xor-in-an-array) | Bit Manipulation | [Solution](problems/easy/decode-xor-in-an-array/index.md) |
 #### Medium
 | Problem | Approach | Solution |
 |---------|------------|----------|
