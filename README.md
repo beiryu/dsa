@@ -6,6 +6,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 
 - [Problems](#problems)
 - [Interview Questions](#interview-questions)
+- [System Design](#system-design)
 
 ### Problems
 - [Easy](#easy)
@@ -18,6 +19,10 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Longest Common Prefix](problems/easy/longest-common-prefix) | Horizontal Scanning, Vertical Scanning | [Solution](problems/easy/longest-common-prefix/index.md) |
 | [Search Insert Position](problems/easy/search-insert-position) | Binary Search, Linear Search | [Solution](problems/easy/search-insert-position/index.md) |
 | [Add Binary](problems/easy/add-binary) | Built-in JavaScript Functions, Bit Manipulation | [Solution](problems/easy/add-binary/index.md) |
+| [Sqrt(x)](problems/easy/sqrt-x) | Binary Search, Newton's Method | [Solution](problems/easy/sqrt-x/index.md) |
+| [Count Pair Whose Sum is Less Than Target](problems/easy/count-pair-whose-sum-is-less-than-target) | Two Pointers, Brute Force | [Solution](problems/easy/count-pair-whose-sum-is-less-than-target/index.md) |
+| [Number of Good Pairs](problems/easy/number-of-good-pairs) | Brute Force, Hashmap | [Solution](problems/easy/number-of-good-pairs/index.md) |
+
 
 #### Medium
 | Problem | Approach | Solution |
@@ -34,6 +39,9 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 - [Easy](#easy)
 - [Medium](#medium)
 - [Hard](#hard)
+
+### System Design
+
 
 ## Contributing
 
