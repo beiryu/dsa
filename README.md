@@ -17,6 +17,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 |---------|------------|----------|
 | [Longest Common Prefix](problems/easy/longest-common-prefix) | Horizontal Scanning, Vertical Scanning | [Solution](problems/easy/longest-common-prefix/index.ts) |
 | [Search Insert Position](problems/easy/search-insert-position) | Binary Search, Linear Search | [Solution](problems/easy/search-insert-position/index.ts) |
+| [Add Binary](problems/easy/add-binary) | Built-in JavaScript Functions, Bit Manipulation | [Solution](problems/easy/add-binary/index.ts) |
 
 #### Medium
 
