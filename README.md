@@ -36,6 +36,9 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Jump Game 2](problems/medium/jump-game-2) | Greedy Approach, Dynamic Programming | [Solution](problems/medium/jump-game-2/index.md) |
 | [Insert Interval](problems/medium/insert-interval) | Merge, One Pass | [Solution](problems/medium/insert-interval/index.ts) |
 | [Minimum Size Subarray Sum](problems/medium/minimum-size-subarray-sum) | Sliding Window, Prefix Sum and Binary Search | [Solution](problems/medium/minimum-size-subarray-sum/index.md) |
+| [Minimum Sum of Four Digit Number After Splitting Digits](problems/medium/minimum-sum-of-four-digit-number-after-splitting-digits) | Min Heap | [Solution](problems/medium/minimum-sum-of-four-digit-number-after-splitting-digits/index.md) |
+| [Can Place Flowers](problems/medium/can-place-flowers) | Iterative, Early Return | [Solution](problems/medium/can-place-flowers/index.md) |
+| [Majority Element](problems/medium/majority-element) | Boyer-Moore Voting Algorithm, Sorting, Map | [Solution](problems/medium/majority-element/index.md) |
 
 #### Hard
 
