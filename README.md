@@ -47,6 +47,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Average of Levels in Binary Tree](problems/easy/average-of-levels-in-binary-tree)                                               | BFS, DFS                                        | [Solution](problems/easy/average-of-levels-in-binary-tree/index.md)                        |
 | [Best Time to Buy and Sell Stock](problems/easy/best-time-to-buy-and-sell-stock)                                                 | Brute Force, One Pass                           | [Solution](problems/easy/best-time-to-buy-and-sell-stock/index.md)                         |
 | [Remove Element](problems/easy/remove-element)                                                                                   | Two Pointers                                    | [Solution](problems/easy/remove-element/index.md)                                          |
+| [Climbing Stairs](problems/easy/climbing-stairs)                                                                                 | Dynamic Programming, Fibonacci Number           | [Solution](problems/easy/climbing-stairs/index.md)                                         |
 
 #### Medium
 
