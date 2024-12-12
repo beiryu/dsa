@@ -49,6 +49,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Remove Element](problems/easy/remove-element)                                                                                   | Two Pointers                                    | [Solution](problems/easy/remove-element/index.md)                                          |
 | [Climbing Stairs](problems/easy/climbing-stairs)                                                                                 | Dynamic Programming, Fibonacci Number           | [Solution](problems/easy/climbing-stairs/index.md)                                         |
 | [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list)                                           | Iterative, Recursion                            | [Solution](problems/easy/remove-duplicates-from-sorted-list/index.md)                      |
+| [Merge Sorted Array](problems/easy/merge-sorted-array)                                                                           | Two Pointers                                    | [Solution](problems/easy/merge-sorted-array/index.md)                                      |
 
 #### Medium
 
