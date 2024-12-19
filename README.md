@@ -52,6 +52,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Merge Sorted Array](problems/easy/merge-sorted-array)                                                                           | Two Pointers                                    | [Solution](problems/easy/merge-sorted-array/index.md)                                      |
 | [Summary Ranges](problems/easy/summary-ranges)                                                                                   | Two Pointers                                    | [Solution](problems/easy/summary-ranges/index.md)                                          |
 | [Path Sum](problems/easy/path-sum)                                                                                                 | DFS, BFS                                        | [Solution](problems/easy/path-sum/index.md)                                                  |
+| [Minimum Depth of Binary Tree](problems/easy/minimum-depth-of-binary-tree)                                                       | DFS, BFS                                        | [Solution](problems/easy/minimum-depth-of-binary-tree/index.md)                              |
 
 #### Medium
 
