@@ -51,6 +51,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list)                                           | Iterative, Recursion                            | [Solution](problems/easy/remove-duplicates-from-sorted-list/index.md)                      |
 | [Merge Sorted Array](problems/easy/merge-sorted-array)                                                                           | Two Pointers                                    | [Solution](problems/easy/merge-sorted-array/index.md)                                      |
 | [Summary Ranges](problems/easy/summary-ranges)                                                                                   | Two Pointers                                    | [Solution](problems/easy/summary-ranges/index.md)                                          |
+| [Path Sum](problems/easy/path-sum)                                                                                                 | DFS, BFS                                        | [Solution](problems/easy/path-sum/index.md)                                                  |
 
 #### Medium
 
