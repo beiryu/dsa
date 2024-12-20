@@ -53,6 +53,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Summary Ranges](problems/easy/summary-ranges)                                                                                   | Two Pointers                                    | [Solution](problems/easy/summary-ranges/index.md)                                          |
 | [Path Sum](problems/easy/path-sum)                                                                                                 | DFS, BFS                                        | [Solution](problems/easy/path-sum/index.md)                                                  |
 | [Minimum Depth of Binary Tree](problems/easy/minimum-depth-of-binary-tree)                                                       | DFS, BFS                                        | [Solution](problems/easy/minimum-depth-of-binary-tree/index.md)                              |
+| [Determine if Tree is Height Balanced](problems/easy/determine-height-balanced)                                                   | DFS, Recursion, Top-Down, Bottom-Up                | [Solution](problems/easy/determine-height-balanced/index.md)                                |
 
 #### Medium
 
