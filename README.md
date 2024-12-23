@@ -54,6 +54,7 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 | [Path Sum](problems/easy/path-sum)                                                                                                 | DFS, BFS                                        | [Solution](problems/easy/path-sum/index.md)                                                  |
 | [Minimum Depth of Binary Tree](problems/easy/minimum-depth-of-binary-tree)                                                       | DFS, BFS                                        | [Solution](problems/easy/minimum-depth-of-binary-tree/index.md)                              |
 | [Determine if Tree is Height Balanced](problems/easy/determine-height-balanced)                                                   | DFS, Recursion, Top-Down, Bottom-Up                | [Solution](problems/easy/determine-height-balanced/index.md)                                |
+| [Convert Sorted Array to Binary Search Tree](problems/easy/convert-sorted-array-to-binary-search-tree)                           | Recursion, Preorder Traversal                     | [Solution](problems/easy/convert-sorted-array-to-binary-search-tree/index.md)               |
 
 #### Medium
 
