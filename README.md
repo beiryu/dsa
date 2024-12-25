@@ -59,13 +59,14 @@ This is a public typescript handbook for DSA. It is a work in progress and will 
 
 #### Medium
 
-| Problem                                                                | Approach                                     | Solution                                                       |
-| ---------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------------- |
-| [Generate Parentheses](problems/medium/generate-parentheses)           | Recursion, Backtracking                      | [Solution](problems/medium/generate-parentheses/index.md)      |
-| [Jump Game](problems/medium/jump-game)                                 | Greedy Approach, Backtracking                | [Solution](problems/medium/jump-game/index.md)                 |
-| [Jump Game 2](problems/medium/jump-game-2)                             | Greedy Approach, Dynamic Programming         | [Solution](problems/medium/jump-game-2/index.md)               |
-| [Insert Interval](problems/medium/insert-interval)                     | Merge, One Pass                              | [Solution](problems/medium/insert-interval/index.ts)           |
-| [Minimum Size Subarray Sum](problems/medium/minimum-size-subarray-sum) | Sliding Window, Prefix Sum and Binary Search | [Solution](problems/medium/minimum-size-subarray-sum/index.md) |
+| Problem                                                                        | Approach                                     | Solution                                                           |
+| ------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------ |
+| [Generate Parentheses](problems/medium/generate-parentheses)                   | Recursion, Backtracking                      | [Solution](problems/medium/generate-parentheses/index.md)          |
+| [Jump Game](problems/medium/jump-game)                                         | Greedy Approach, Backtracking                | [Solution](problems/medium/jump-game/index.md)                     |
+| [Jump Game 2](problems/medium/jump-game-2)                                     | Greedy Approach, Dynamic Programming         | [Solution](problems/medium/jump-game-2/index.md)                   |
+| [Insert Interval](problems/medium/insert-interval)                             | Merge, One Pass                              | [Solution](problems/medium/insert-interval/index.ts)               |
+| [Minimum Size Subarray Sum](problems/medium/minimum-size-subarray-sum)         | Sliding Window, Prefix Sum and Binary Search | [Solution](problems/medium/minimum-size-subarray-sum/index.md)     |
+| [Copy List with Random Pointer](problems/medium/copy-list-with-random-pointer) | Hashmap, Iteration                           | [Solution](problems/medium/copy-list-with-random-pointer/index.md) |
 
 #### Hard
 
